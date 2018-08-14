@@ -6,7 +6,7 @@ To install Node.js please download it from [Nodejs](https://nodejs.org/)
 You can download or *clone* the application. To clone the app you need to install [Git](https://git-scm.com/)
 
 Once install simply type
->git clone https://github.com/sunnixx/backendjwtmochachai.git
+>git clone https://github.com/Maklik123/Testing-Paractise.git
 
 *Once downloaded, you can follow the steps given below*
 
